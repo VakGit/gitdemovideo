@@ -1,2 +1,2 @@
 # gitdemovideo
-Neacademia demo 
+Netacademia demo 
